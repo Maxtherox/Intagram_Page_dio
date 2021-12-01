@@ -1,2 +1,9 @@
-# Intagram_Page_dio
-Estudando CSS e aprendendo a montar uma pagina semelhante a do instagram (Login)
+# Estudo de CSS
+
+Criando pagina de login semelhante a do instagram
+
+![](https://i.ibb.co/fHV03G5/insta.png)
+
+### Responsividade
+
+![](https://i.ibb.co/dLFKhtJ/Responsive.png)
